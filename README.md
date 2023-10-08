@@ -18,5 +18,5 @@ $ pip3 install -r requirements.txt
 
 3. Запуск программы
 ```
-$ python3 main.py
+$ python3 PentestTools.py
 ```
